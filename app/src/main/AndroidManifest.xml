@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mobile.formulirregistrasiatlet">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/forki"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".View.VerifikasiFinalPembayaranActivity"></activity>
+        <activity android:name=".View.VerifikasiPembayaranActivity" />
+        <activity android:name=".View.SemuaDataPesertaActivity" />
+        <activity android:name=".View.HomeActivity" />
+        <activity android:name=".View.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".View.SuccessActivity" />
+        <activity android:name=".View.ViewPesertaActivity" />
+        <activity android:name=".View.LoginActivity" />
+        <activity android:name=".View.PesertaActivity" />
+        <activity android:name=".View.RegisterActivity" />
+    </application>
+
+</manifest>

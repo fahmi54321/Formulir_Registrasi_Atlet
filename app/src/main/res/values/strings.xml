@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">PKC 2020</string>
+    <string name="formulir_registrasi_atlet">Formulir\nRegistrasi Atlet</string>
+    <string name="batanghari_open">Padang Karate Championship 2020\nVideo Kata Tournament</string>
+    <string name="lokasi_tgl">Muara Bulian, Tanggal 13 s.d 15 November 2020</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="sesuai_ktp">Sesuai KTP/KTA Kelahiran</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="tgl_lahir">Tanggal Lahir</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="asal_kontingen">Asal Kontingen/Team/Club</string>
+    <string name="perguruan">Perguruan</string>
+    <string name="kelas">Kelas Yang Diikuti</string>
+    <string name="kata_perorangan_usia_dini_putra">Kata\nPerorangan\nUsia Dini Putra</string>
+    <string name="kata_perorangan_usia_dini_putri">Kata\nPerorangan\nUsia Dini Putri</string>
+    <string name="kata_perorangan_pra_pemula_putra">Kata\nPerorangan\nPra Pemula\nPutra</string>
+    <string name="kata_perorangan_pra_pemula_putri">Kata\nPerorangan\nPra Pemula\nPutri</string>
+    <string name="kata_perorangan_pemula_putra">Kata\nPerorangan\nPemula Putra</string>
+    <string name="kata_perorangan_pemula_putri">Kata\nPerorangan\nPemula Putri</string>
+    <string name="kata_perorangan_kadet_putra">Kata\nPerorangan\nKadet Putra</string>
+    <string name="kata_perorangan_kadet_putri">Kata\nPerorangan\nKadet Putri</string>
+    <string name="kata_perorangan_junior_putra">Kata\nPerorangan\nJunior Putra</string>
+    <string name="kata_perorangan_junior_putri">Kata\nPerorangan\nJunior Putri</string>
+    <string name="kata_perorangan_senior_putra">Kata\nPerorangan\nSenior Putra</string>
+    <string name="kata_perorangan_senior_putri">Kata\nPerorangan\nSenior Putri</string>
+    <string name="kata_perorangan_veteran_putra">Kata\nPerorangan\nVeteran Putra Usia\n31 s.d 39\nTahun</string>
+    <string name="kata_perorangan_veteran_putra_plus">Kata Perorangan\nVeteran Putra\nUsia +40 Tahun</string>
+    <string name="link_video_1">Link Video I Babak Penyisihan Google Drive/YouTube</string>
+    <string name="babak_penyisihan">Babak Penyisihan Sabuk AO/Biru</string>
+    <string name="link_video_2">Link Video II Babak Penyisihan Google Drive/YouTube</string>
+    <string name="link_video_3">Link Video III Babak Final AKA Google Drive/YouTube</string>
+    <string name="link_video_4">Link Video IV Babak Final AO Google Drive/YouTube</string>
+    <string name="babak_final">Babak Final Sabuk AKA/Merah</string>
+    <string name="upload_photo">Upload Foto</string>
+    <string name="upload_scan">Upload Scan Foto Akte Kelahiran</string>
+    <string name="no_telp">No Telp/WA Penanggung Jawab</string>
+    <string name="register">Register</string>
+    <string name="nama_kontingen">Nama Kontingen</string>
+    <string name="nama_pelatih">Nama Pelatih</string>
+    <string name="no_hp">No Hp (Akses WA)</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="data_peserta">Data Peserta</string>
+    <string name="tambah_data_peserta">Tambah Data Peserta</string>
+    <string name="kategori">Kategori</string>
+    <string name="kelass">Kelas 1</string>
+    <string name="kelass2">Kelas 2</string>
+    <string name="home">Home</string>
+    <string name="total_peserta">Total Peserta</string>
+    <string name="cari_berdasarkan">Cari Berdasarkan</string>
+    <string name="verifikasi_pembayaran">Verifikasi Pembayaran</string>
+    <string name="upload_bukti_pembayaran">Upload Bukti Pembayaran</string>
+
+    <string-array name="kategori">
+        <item>Pra Dini</item>
+        <item>Dini</item>
+        <item>Pra Pemula</item>
+        <item>Pemula</item>
+        <item>Kadet</item>
+        <item>Junior</item>
+        <item>Senior</item>
+    </string-array>
+    <string-array name="kelas">
+        <item>Kata Perorangan Pra Dini Putra</item>
+        <item>Kata Perorangan Pra Dini Putri</item>
+        <item>Kata Beregu Pra Dini Putra</item>
+        <item>Kata Beregu Pra Dini Putri</item>
+        <item>Kata Perorangan Dini Putra</item>
+        <item>Kata Perorangan Dini Putri</item>
+        <item>Kata Beregu Dini Putra</item>
+        <item>Kata Beregu Dini Putri</item>
+        <item>Kata Perorangan Pra Pemula Putra</item>
+        <item>Kata Perorangan Pra Pemula Putri</item>
+        <item>Kata Beregu Pra Pemula Putra</item>
+        <item>Kata Beregu Pra Pemula Putri</item>
+        <item>Kata Perorangan Pemula Putra</item>
+        <item>Kata Perorangan Pemula Putri</item>
+        <item>Kata Beregu Pemula Putra</item>
+        <item>Kata Beregu Pemula Putri</item>
+        <item>Kata Perorangan Kadet Putra</item>
+        <item>Kata Perorangan Kadet Putri</item>
+        <item>Kata Beregu Kadet Putra</item>
+        <item>Kata Beregu Kadet Putri</item>
+        <item>Kata Perorangan Junior Putra</item>
+        <item>Kata Perorangan Junior Putri</item>
+        <item>Kata Beregu Junior Putra</item>
+        <item>Kata Beregu Junior Putri</item>
+        <item>Kata Perorangan Senior Putra</item>
+        <item>Kata Perorangan Senior Putri</item>
+        <item>Kata Beregu Senior Putra</item>
+        <item>Kata Beregu Senior Putri</item>
+    </string-array>
+    <string-array name="pra_dini">
+        <item>Kata Perorangan Pra Dini Putra</item>
+        <item>Kata Perorangan Pra Dini Putri</item>
+        <item>Kata Beregu Pra Dini Putra</item>
+        <item>Kata Beregu Pra Dini Putri</item>
+    </string-array>
+    <string-array name="dini">
+        <item>Kata Perorangan Dini Putra</item>
+        <item>Kata Perorangan Dini Putri</item>
+        <item>Kata Beregu Dini Putra</item>
+        <item>Kata Beregu Dini Putri</item>
+    </string-array>
+    <string-array name="pra_pemula">
+        <item>Kata Perorangan Pra Pemula Putra</item>
+        <item>Kata Perorangan Pra Pemula Putri</item>
+        <item>Kata Beregu Pra Pemula Putra</item>
+        <item>Kata Beregu Pra Pemula Putri</item>
+    </string-array>
+    <string-array name="pemula">
+        <item>Kata Perorangan Pemula Putra</item>
+        <item>Kata Perorangan Pemula Putri</item>
+        <item>Kata Beregu Pemula Putra</item>
+        <item>Kata Beregu Pemula Putri</item>
+    </string-array>
+    <string-array name="kadet">
+        <item>Kata Perorangan Kadet Putra</item>
+        <item>Kata Perorangan Kadet Putri</item>
+        <item>Kata Beregu Kadet Putra</item>
+        <item>Kata Beregu Kadet Putri</item>
+    </string-array>
+    <string-array name="junior">
+        <item>Kata Perorangan Junior Putra</item>
+        <item>Kata Perorangan Junior Putri</item>
+        <item>Kata Beregu Junior Putra</item>
+        <item>Kata Beregu Junior Putri</item>
+    </string-array>
+    <string-array name="senior">
+        <item>Kata Perorangan Senior Putra</item>
+        <item>Kata Perorangan Senior Putri</item>
+        <item>Kata Beregu Senior Putra</item>
+        <item>Kata Beregu Senior Putri</item>
+    </string-array>
+    <string-array name="kategoriCari">
+        <item>Nama</item>
+        <item>Perguruan</item>
+        <item>Kategori</item>
+        <item>Kelas</item>
+    </string-array>
+</resources>
